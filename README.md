@@ -3,7 +3,8 @@ Read and Set the PID for a Miranda BLDC Servo
 
 You may need to set the i2c address sepending on your jumper setterings
 
-![Miranda Tune v0 2](https://github.com/Rotoslider/miranda_tune/assets/15005663/878a5d8c-8ef7-4dec-a9b1-4c34fc01e1bb)
+
+![Miranda Tune v0 3](https://github.com/Rotoslider/miranda_tune/assets/15005663/a7fe28dd-3d3e-48fa-9832-4f19d3512500)
 
 
 
