@@ -1,7 +1,7 @@
 # Miranda BLDC Integrated Servo Motor
 Read and Set the PID for a Miranda BLDC Servo
 
-You may need to set the i2c address sepending on your jumper setterings
+You may need to set the i2c address depending on your jumper setterings
 
 
 
